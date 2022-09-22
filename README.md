@@ -1,14 +1,14 @@
-# Projeto Playground Fuctions
+# Projeto Playground Fuctions :rocket:
 
 ## REQUISITOS OBRIGATÓRIOS :robot:
 
-[x] 1. Crie uma função usando o operador &&
+- [x]  1. Crie uma função usando o operador &&
 
-[x] 2. Crie uma função que calcule a área de um triângulo
+- [x] 2. Crie uma função que calcule a área de um triângulo
 
-[x] 3. Crie uma função que divida a frase
+- [x] 3. Crie uma função que divida a frase
 
-[x] 4. Crie uma função que use concatenação de strings
+- [x] 4. Crie uma função que use concatenação de strings
 
 Escreva uma função com o nome `concatName` que, ao receber uma array de strings, retorne uma string com o formato `'ÚLTIMO ITEM, PRIMEIRO ITEM'`, independente do tamanho da array.
 
@@ -22,7 +22,7 @@ Isso quer dizer que, caso o parâmetro passado para `concatName` seja a Array ['
 
 - Retorne 'captain, captain' quando o parâmetro passado na funcão concatName seja ['captain', 'my', 'captain']
 
-[x] 5. Crie uma função que calcule a quantidade de pontos no futebol
+- [x] 5. Crie uma função que calcule a quantidade de pontos no futebol
 
 Escreva uma função com o nome `footballPoints` que receba o número de vitórias (esse parâmetro deverá se chamar `wins`) e o número de empates (esse parâmetro deverá se chamar `ties`) e retorne a quantidade de pontos que o time marcou em um campeonato.
 
@@ -36,7 +36,7 @@ Para tanto, considere que cada vitória vale 3 pontos e cada empate vale 1 ponto
 
 - Retorne 0 pontos quando o time tenha 0 vitórias e 0 empates
 
-[x] 6. Crie uma função que calcule a repetição do maior número
+- [x] 6. Crie uma função que calcule a repetição do maior número
 
 Escreva uma função chamada `highestCount` que, ao receber uma array de números, retorne a quantidade de vezes que o maior deles se repete.
 
@@ -50,7 +50,7 @@ Exemplo: caso o parâmetro de `highestCount` seja uma array com valores `[9, 1, 
 
 - Retorne 3 quando o parâmetro passado na função highestCount seja [0, 0, 0]
 
-[x] 7. Crie uma função de Caça ao Rato
+- [x] 7. Crie uma função de Caça ao Rato
 
 Imagine que existem dois gatos, os quais chamaremos de `cat1` e `cat2`, e que ambos estão caçando um mesmo rato chamado `mouse`. Imagine que os animais estão em uma reta, cada um em uma posição representada por um número.
 
@@ -68,7 +68,7 @@ Caso os gatos estejam na mesma distância do rato, a função deverá retornar a
 
 - Retorne a string 'os gatos trombam e o rato foge' caso a função catAndMouse receba os parâmetros onde os gatos estejam na mesma distância do rato
 
-[x] 8. Crie uma função FizzBuzz
+- [x] 8. Crie uma função FizzBuzz
 
 Crie uma função chamada `fizzBuzz` que receba uma array de números e retorne uma array da seguinte forma:
 
@@ -88,7 +88,7 @@ Exemplo: caso o parâmetro seja [2, 15, 7, 9, 45], sua função deverá retornar
 - Retorne as strings ['fizz', 'buzz'] quando é passado os parâmetros [9, 25] para a função fizzBuzz
 
 
-[x] 9. Crie uma função que Codifique e Decodifique
+- [x] 9. Crie uma função que Codifique e Decodifique
 
 Crie duas funções: a primeira deverá se chamar `encode` e, ao receber uma string como parâmetro, deverá trocar todas as vogais minúsculas por números, de acordo com o formato a seguir:
 
@@ -108,7 +108,7 @@ A segunda função deverá se chamar `decode` e faz o contrário de `encode` - o
 
 - Retorne uma string decodificada quando a função decode for utilizada
 
-[x] 10. Crie uma função de Lista de Tecnologias
+- [x] 10. Crie uma função de Lista de Tecnologias
 
 Crie uma função que recebe um array de nomes de tecnologias que você quer aprender. Essa função deve receber também um segundo parâmetro chamado `name` com um nome.
 
@@ -168,7 +168,7 @@ Caso o array venha vazio sua função deve retornar 'Vazio!'
 
 **Bônus**
 
-[x] 11. Crie uma função de Número de Telefone
+- [x] 11. Crie uma função de Número de Telefone
 
 Crie uma função chamada `generatePhoneNumber` que receba uma array com 11 números e retorne um número de telefone, respeitando parênteses, traços e espaços.
 
@@ -190,7 +190,7 @@ Exemplo: caso o parâmetro da função seja [1, 2, 3, 4, 5, 6, 7, 8, 9, 0, 1], `
 
 - Retorne um número de telefone, respeitando parênteses, traços e espaços caso os números do array estejam de acordo com as especificações
 
-[x] 12. Crie uma função de Condição de existência de um triângulo
+- [x] 12. Crie uma função de Condição de existência de um triângulo
 
 Um triângulo é composto de três linhas: `lineA`, `lineB` e `lineC`. Crie uma função chamada `triangleCheck` que deverá receber as três linhas como parâmetro e retornar se é possível formar um triângulo com os valores apresentados de cada linha.
 
@@ -212,7 +212,7 @@ Exemplo: o retorno de `triangleCheck(10, 14, 8)` deverá ser `true`.
 
 - Retorne true quando a medida de qualquer um dos lados seja menor que a soma das medidas dos outros dois e maior que o valor absoluto da diferença entre essas medidas.
 
-[x] 13. Crie uma função de boas vindas ao Bar da Trybe!
+- [x] 13. Crie uma função de boas vindas ao Bar da Trybe!
 
 Segundo as regras desse bar, a cada bebida deve-se beber um copo de água para que não se tenha ressaca.
 

@@ -23,7 +23,7 @@
 - [x] 10. Crie uma função de Lista de Tecnologias
 
 
-# Requisitos Bônus :military_medal:
+# Requisitos Bônus 🎖️
 
 - [x] 11. Crie uma função de Número de Telefone
 
